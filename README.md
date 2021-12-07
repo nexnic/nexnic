@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Myreality Websit**
+- 👯 I’m looking to collaborate on **You website**
 
 - 📫 How to reach me **N3xnic#7223**
 
