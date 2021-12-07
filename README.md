@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Myreality & My portfolio**
 
-- 🌱 I’m currently learning **Vanila JAVA, befor React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Myreality Websit**
 
